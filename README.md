@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing **undergraduate studies in Computer Engineering**
 
-- 📫 How to reach me **raghav.sarmukaddam@gmail.com**
+- 📫 Reach me out at **raghav.sarmukaddam@gmail.com**
 
 - ⚡ Fun fact **I think I am the most interesting person there is!**
 
