@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙌, I'm Raghav Sarmukaddam</h1>
 <h3 align="center">🎓 Computer Engineering Graduate | 📊 AI & Deep Learning Enthusiast | 💻 Aspiring Researcher</h3>
 
-- 🔭 I’m currently pursuing **undergraduate studies in Computer Engineering**
+- 🔭 I’m currently pursuing **graduate studies in Computer Science**
 
 - 📫 Reach me out at **raghav.sarmukaddam@gmail.com**
 
